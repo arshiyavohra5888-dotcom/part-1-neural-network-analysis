@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Neurons,Learning Rate,Test Accuracy,Churn Recall
+Baseline (64-32-16),3,64-32-16,0.001,0.9825,0.17
+Larger Model + Lower LR,3,128-64-32,0.0005,0.985,TBD
+With Class Weights,2,32-16,0.001,0.935,TBD
